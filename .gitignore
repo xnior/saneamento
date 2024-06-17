@@ -1,0 +1,63 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+/src/404.html
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ai generation
+/src/app/services
+/src/app/app.component.html
+/src/app/app.component.ts
+/src/app/app.component.scss
+/src/app/app.module.ts
+/src/app/pages/conversion/conversion.component.html
+/src/app/pages/conversion/conversion.component.scss
+/src/app/pages/conversion/conversion.component.ts
+/src/app/pages/flow/flow.component.html
+/src/app/pages/flow/flow.component.scss
+/src/app/pages/flow/flow.component.ts
+/src/app/pages/menu/menu.component.html
+/src/app/pages/menu/menu.component.scss
+/src/app/pages/menu/menu.component.ts
+/src/app/pages/piezometric/piezometric.component.html
+/src/app/pages/piezometric/piezometric.component.scss
+/src/app/pages/piezometric/piezometric.component.ts
+/src/app/app.routes.ts
