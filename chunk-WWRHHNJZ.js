@@ -1,1 +1,0 @@
-import{Bb as i,Cb as a,Rb as r,Yb as s,la as o}from"./chunk-CMZYNCQ5.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-flow"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,p){n&1&&(i(0,"p"),r(1,"Em desenvolvimento!"),a())}});let t=e;return t})();export{c as a};
